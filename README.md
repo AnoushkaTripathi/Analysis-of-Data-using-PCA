@@ -6,7 +6,8 @@ Some times while training a machine learning model can lead to following problem
 2. Overfitting of training data
 3.multi collinearity
 4. Data Storage problem
-5. Lack of Data points
+5. Lack of Data points   
+
 So, to solve this problem Dimensionality reduction can help us a lot
  this is a small project made by me which involves the use of PCA a dimensionality reduction algorithm 
  
